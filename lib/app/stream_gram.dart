@@ -5,7 +5,7 @@ import 'package:stream_feed_flutter_core/stream_feed_flutter_core.dart';
 
 import '../components/login/login.dart';
 
-/// {@template app}
+
 /// Main entry point to the Stream-gram application.
 /// {@endtemplate}
 class StreamgramApp extends StatefulWidget {
