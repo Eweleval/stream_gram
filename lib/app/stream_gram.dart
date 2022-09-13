@@ -23,7 +23,7 @@ class StreamgramApp extends StatefulWidget {
 }
 
 class _StreamgramAppState extends State<StreamgramApp> {
-  final _client = StreamFeedClient('q2kyerf3as5r'); // TODO: Add Stream API Token
+  final _client = StreamFeedClient('API KEY'); // TODO: Add Stream API Token
   late final appState = AppState(client: _client);
 
   // Important to only initialize this once.
