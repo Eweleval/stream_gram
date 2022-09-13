@@ -54,12 +54,12 @@ extension DemoAppUserX on DemoAppUser {
   Token? get token => <DemoAppUser, Token>{
     // TODO: Add User Frontend Tokens
     DemoAppUser.ewele: const Token(
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTUyMDI0ODYsInVzZXJfaWQiOiJld2VsZS12YWwifQ.thDSaUgRj-b46OFAMYzTuOx1LkdRqRJvpbEKX6R4sTQ'),
+        'TOKEN GENERATED FROM GETSTREAMS CLI'),
     DemoAppUser.wisdom: const Token(
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTUyMDI0OTcsInVzZXJfaWQiOiJ3aXNkb20tdmFsIn0.Ea7WtmVTEVibWw8MXldE_jiu63r9Obbko5Tlt1YWZ3Y'),
+        'TOKEN GENERATED FROM GETSTREAMS CLI'),
     DemoAppUser.ugo: const Token(
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTUyMDI0OTEsInVzZXJfaWQiOiJ1Z28tdmFsIn0.iaBbFjFz4FQFHRLHXChyrXBJeTB7PJcMlNNK4VT7zUI'),
+        'TOKEN GENERATED FROM GETSTREAMS CLI'),
     DemoAppUser.wellz: const Token(
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTUyMDI1MDMsInVzZXJfaWQiOiJ3ZWxsei13YXJkZW4ifQ.JbskyRYUHJU3XBS8mOldJATzLs9_7s-lIZMxPHJ8Hig'),
+        'TOKEN GENERATED FROM GETSTREAMS CLI'),
   }[this];
 }
